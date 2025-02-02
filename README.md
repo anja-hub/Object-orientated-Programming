@@ -1,8 +1,5 @@
-# 📚 SIT771 - Object-Oriented Development Resources
-
 A collection of useful tutorials, articles, and YouTube videos to help reinforce **C# and OOP concepts**. These resources are mainly **beginner-friendly**, but they can be useful for anyone looking to **strengthen their understanding**.
 
----
 
 ## **Objects, Classes, Encapsulation, Abstraction**
 📌 **[Microsoft Learn: C# Fundamentals](https://dotnet.microsoft.com/en-us/learn/csharp)**  
@@ -14,7 +11,6 @@ A collection of useful tutorials, articles, and YouTube videos to help reinforce
 📽️ **[Code with Mosh – OOP in C#](https://www.youtube.com/watch?v=gfkTfcpWqAY)**  
 *A clear and concise video tutorial explaining core OOP concepts in C# (approx. 1 hr).*
 
----
 
 ## **Control Flow & Error Handling**
 📌 **[LearnCS.org](https://www.learncs.org/)**  
@@ -23,7 +19,6 @@ A collection of useful tutorials, articles, and YouTube videos to help reinforce
 📽️ **[freeCodeCamp – Full C# Course](https://www.youtube.com/watch?v=GhQdlIFylQ8)**  
 *Covers flow control, debugging, and exception handling (starts around 1 hr mark, total is approx. 3hrs).*
 
----
 
 ## **Data Structures & Design Principles**
 📌 **[Responsibility-Driven Design (In Practice)](https://www.codit.eu/blog/responsibility-driven-design-in-practice/)**  
@@ -32,7 +27,6 @@ A collection of useful tutorials, articles, and YouTube videos to help reinforce
 📌 **[UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)**  
 *Covers UML Class Diagrams, explaining their components and how to use them to model object-oriented systems effectively.*
 
----
 
 ## **Inheritance, Interfaces & Advanced C#**
 📽️ **[IAmTimCorey – C# Interfaces & Polymorphism](https://www.youtube.com/@IAmTimCorey)**  
